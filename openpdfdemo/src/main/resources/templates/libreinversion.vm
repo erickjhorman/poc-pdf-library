@@ -1,0 +1,414 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title></title>
+    <!--[if !mso]>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+	<![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <style type="text/css">
+        #outlook a {
+            padding: 0;
+        }
+
+        .ReadMsgBody {
+            width: 100%;
+        }
+
+        .ExternalClass {
+            width: 100%;
+        }
+
+        .ExternalClass * {
+            line-height: 100%;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+        }
+
+        table,
+        td {
+            border-collapse: collapse;
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+        }
+
+        img {
+            border: 0;
+            height: auto;
+            line-height: 100%;
+            outline: none;
+            text-decoration: none;
+            -ms-interpolation-mode: bicubic;
+        }
+
+        p {
+            display: block;
+            margin: 13px 0;
+        }
+    </style>
+    <!--[if !mso]>
+		<!-->
+    <style type="text/css">
+        @media only screen and (max-width:480px) {
+            @-ms-viewport {
+                width: 320px;
+            }
+            @viewport {
+                width: 320px;
+            }
+        }
+    </style>
+
+    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        @import url(https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700);
+    </style>
+    <!--
+			<![endif]-->
+    <style type="text/css">
+        @media only screen and (min-width:480px) {
+            .mj-column-per-100 {
+                width: 100%!important;
+            }
+        }
+    </style>
+</head>
+
+<body>
+<div>
+
+    <div style="margin:0px auto;max-width:600px;background:#FFFFFF;">
+        <table role="presentation" cellpadding="0" cellspacing="0" style="font-size:0px;width:100%;background:#FFFFFF;" align="center" border="0">
+            <tr>
+                <td style="text-align:center;vertical-align:top;direction:ltr;font-size:0px;padding:0px;">
+                    <div class="mj-column-per-100 outlook-group-fix" style="vertical-align:top;display:inline-block;direction:ltr;font-size:13px;text-align:left;width:100%;">
+                        <table role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0">
+                            <tr>
+                                <td style="word-break:break-word;font-size:0px;padding:0px;" align="center">
+                                    <div style="margin:0px auto;max-width:600px;background:#ffd53a;">
+                                        <table role="presentation" cellpadding="0" cellspacing="0" style="font-size:0px;width:100%;background:#ffd53a;" align="center" border="0">
+
+                                            <tr>
+                                                <td style="text-align:center;vertical-align:top;direction:ltr;font-size:0px;padding:0px;">
+                                                    <div class="mj-column-per-100 outlook-group-fix" style="vertical-align:top;display:inline-block;direction:ltr;font-size:13px;text-align:left;width:100%;">
+                                                        <table role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0">
+
+                                                            <tr>
+                                                                <td style="word-break:break-word;font-size:0px;padding:10px 25px;" align="left">
+                                                                    <div class="" style="cursor:auto;color:#000000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:16px;line-height:22px;text-align:left;">
+                                                                        <p style="margin:0 43px 0 0;text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 14px;">Conozca acerca de su Crédito de Consumo</p>
+                                                                    </div>
+                                                                </td>
+                                                            </tr>
+
+                                                        </table>
+                                                    </div>
+                                                </td>
+                                            </tr>
+
+                                        </table>
+                                    </div>
+
+
+                                    <table role="presentation" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border-spacing:0px;" align="center" border="0">
+                                        <tbody>
+                                        <tr>
+                                            <td style="width:600px;">
+                                                <img alt="" title="" height="201" src="$RUTA_IMG/images/mail1.jpg" style="border:none;border-radius:;display:block;outline:none;text-decoration:none;width:720px;height:268;" width="600" />
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td height="35">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td style="word-break:break-word;font-size:0px;padding:0px;" align="center">
+                                    <table role="presentation" cellspacing="0" style="border-collapse:collapse;border-spacing:0px;" align="center" border="0">
+                                        <tr>
+                                            <td style="width:600px; background-color:#ffffff;">
+                                                <p style="color:#58595b; font-size:15px; margin:0 60px 0 60px;text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 20px;">
+                                                    <span style="color: #3a3a3a; font-weight:bold">$FWK_ENVIAR_CORREO_NOMBRE_CLIENTE</span>
+                                                </p>
+                                                <p style="color:#58595b; font-size:15px; margin:0 60px 0 60px;text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 20px;"> Para nosotros es muy importante brindarle el apoyo que sus metas necesitan y por eso estamos felices de que nos haya elegido como su aliado.</p>
+                                                <p style="color:#58595b; font-size:15px; margin:0 60px 0 60px;text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 20px;">Hoy queremos recordarle las características y condiciones de su Crédito de Consumo, porque sabemos que tener las respuestas claras le ayuda a alcanzar sus metas. </p>
+                                                <p style="color:#58595b; font-size:15px; margin:30px 60px 0 60px;text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 20px;">Para abrir los documentos adjuntos, digita tu número de cédula cuando te solicite la contraseña.</p>
+                                                <table>
+                                                    <tr>
+                                                        <td>
+                                                            <table style="color:#656668; font-size:14px; margin-top:30px; text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 24px;;width:95%;background:#FFFFFF;" align="center">
+                                                                <tr style="background-color:#ebebeb; border-top:6px solid #ffffff;">
+                                                                    <td style="padding:10px 30px;">Fecha del desembolso:</td>
+                                                                    <td style="text-align:center; font-weight:bold; color:#050810; padding: 10px 0  10px 0;">$FECHA_DESEMBOLSO</td>
+                                                                </tr>
+                                                                <tr style="background-color:#ebebeb;border-top:6px solid #ffffff;">
+                                                                    <td style="padding:10px 30px;">Valor del desembolso:</td>
+                                                                    <td style="text-align:center; font-weight:bold; color:#050810; padding:  10px 0  10px 0;">$ $VALOR_DESEMBOLSO</td>
+                                                                </tr>
+                                                                <!--<tr style ="background-color:#ebebeb;border-top:6px solid #ffffff;"><td style="padding:10px 30px;">N&uacute;mero de cuotas:</td><td style="text-align:center; font-weight:bold; color:#050810; padding: 10px 0  10px 0;">%%</td></tr>-->
+                                                                <tr style="background-color:#ebebeb;border-top:6px solid #ffffff;">
+                                                                    <td style="padding:10px 30px;">Periodicidad del pago:</td>
+                                                                    <td style="text-align:center; font-weight:bold; color:#050810; padding:  10px 0  10px 0;">$PERIODICIDAD_PAGO</td>
+                                                                </tr>
+                                                                <tr style="background-color:#ebebeb;border-top:6px solid #ffffff;">
+                                                                    <td style="padding:10px 30px;">Fecha de pago de la primera cuota:</td>
+                                                                    <td style="text-align:center; font-weight:bold; color:#050810; padding:  10px 0  10px 0;">$FECHA_PRIMER_PAGO</td>
+                                                                </tr>
+                                                                <tr style="background-color:#ebebeb;border-top:6px solid #ffffff;">
+                                                                    <td style="padding:10px 30px;">D&iacute;a de pago de las siguientes cuotas:</td>
+                                                                    <td style="text-align:center; font-weight:bold; color:#050810; padding:  10px 0  10px 0;">$DIA_PAGO_SIGUIENTE</td>
+                                                                </tr>
+                                                                <tr style="background-color:#ebebeb;border-top:6px solid #ffffff;">
+                                                                    <td style="padding:10px 30px;">Tasa fija nominal anual:</td>
+                                                                    <td style="text-align:center; font-weight:bold; color:#050810; padding:  10px 0  10px 0;">$TASA_FIJA_NOMINAL%</td>
+                                                                </tr>
+                                                                <tr style="background-color:#ebebeb; border-top:6px solid #ffffff;">
+                                                                    <td style="padding:10px 30px;">Plazo de cr&eacute;dito en meses:</td>
+                                                                    <td style="text-align:center; font-weight:bold; color:#050810; padding:  10px 0  10px 0;">$PLAZO_CREDITO</td>
+                                                                </tr>
+                                                                <tr style="background-color:#ebebeb; border-top:6px solid #ffffff; font-size:13px;">
+                                                                    <td style="padding:10px 30px;">Valor de la cuota fija mensual:</td>
+                                                                    <td style="text-align:center; font-weight:bold; color:#050810; padding:  10px 0  10px 0;">$ $VALOR_CUOTA</td>
+                                                                </tr>
+                                                                #if($CUENTA_DEBITO)
+
+                                                                    <tr style="background-color:#ebebeb; border-top:6px solid #ffffff;">
+                                                                        <td style="padding:10px 30px;">Cuenta para el d&eacute;bito:</td>
+                                                                        <td style="text-align:center; font-weight:bold; color:#050810; padding:  10px 0  10px 0;">$CUENTA_DEBITO</td>
+                                                                    </tr>
+                                                                #end
+
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td height="35">&nbsp;</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left; color:#666666; font-size:14px; line-height:18px; font-family: Arial,Helvetica,sans-serif;  ">
+                                                <table cellpadding="1" cellspacing="0" border="0">
+                                                    <tr>
+                                                        <td bgcolor="#FFD20A" style="background-color:#FFD20A; margin-bottom:20px;">
+                                                            <img border="0" src="$RUTA_IMG/images/mail2.jpg" alt="" style="border:none;display:block;outline:none;text-decoration:none;height:auto;" />
+                                                        </td>
+                                                        <td bgcolor="#f3f3f3" valign="middle" style="text-align:left; color:#666666; font-size:12px; line-height:18px; font-family: Arial,Helvetica,sans-serif;  padding: 0px 48px 0px 0px; background-color:#f2f2f2; width: 444px;">
+                                                            <p style="color:#000000; font-size:18px;    margin: 6px 0px 0px 43px;text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 19px;">
+                                                                <strong>Tenga presenta las siguientes recomendaciones para el momento de pagar las cuotas de su crédito. </strong>
+                                                            </p>
+                                                            <ul>
+                                                                <li style="color:#FFD20A; font-size:12px; margin:19px 0 13px 20px;text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 19px;">
+                                                                    <span style="color:#5a5a5b;"> Si su crédito está afiliado al débito automático, debe tener en su cuenta el dinero de la cuota, más lo necesario para el gravamen al movimiento financiero (en caso de que la cuenta no sea exenta) en la fecha del pago.</span>
+                                                                </li>
+                                                                <li style="color:#FFD20A; font-size:12px; margin:19px 0 13px 20px;text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 19px;">
+                                                                    <span style="color:#5a5a5b;">El débito de la cuota se realiza en la noche del día del pago. Si es en fin de semana, se llevará a cabo al siguiente día hábil.</span>
+                                                                </li>
+                                                                <li style="color:#FFD20A; font-size:12px; margin:19px 0 13px 20px;text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 19px;">
+                                                                    <span style="color:#5a5a5b;">Usted solo puede tener una cuenta bancaria exenta del gravamen al movimiento financiero y ésta debe tener un único titular. En caso de que esta política le aplique, acérquese a una de nuestras oficinas para solicitar el beneficio.</span>
+                                                                </li>
+                                                            </ul>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td height="20" style="list-style: none; color:#ffffff;">
+                                                            &nbsp;
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td bgcolor="#FFD20A" style="background-color:#FFD20A;" width="156" height="138">
+                                                            <img border="0" src="$RUTA_IMG/images/mail3.jpg" alt="" style="border:none;display:block;outline:none;text-decoration:none;height:auto;" />
+                                                        </td>
+                                                        <td bgcolor="#f2f2f2" valign="middle" style="text-align:left; color:#666666; font-size:15px; line-height:18px; font-family: Arial,Helvetica,sans-serif;  padding: 0px 0px 0px 34px;background-color:#f2f2f2; width: 444px;">
+                                                            <p style="color:#000000; font-size:18px; margin:19px 50px 13px 20px;text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 19px;">
+                                                                <strong>Tenga en cuenta que el orden de aplicación de los pagos se realiza de esta manera:</strong>
+                                                            </p>
+                                                            <ol>
+                                                                <li style="color:#000000; font-size:12px; margin:19px 0 13px 20px;text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 5px;">
+                                                                    <span style="color:#5a5a5b;"> Intereses de mora si los hay.</span>
+                                                                </li>
+                                                                <li style="color:#000000; font-size:12px; margin:19px 0 13px 20px;text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 5px;">
+                                                                    <span style="color:#5a5a5b;"> Seguros.</span>
+                                                                </li>
+                                                                <li style="color:#000000; font-size:12px; margin:19px 0 13px 20px;text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 10px;">
+                                                                    <span style="color:#5a5a5b;"> Intereses remuneratorios causados y no pagados.</span>
+                                                                </li>
+                                                                <li style="color:#000000; font-size:12px; margin:19px 0 13px 20px;text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 5px;">
+                                                                    <span style="color:#5a5a5b;"> Capital.</span>
+                                                                </li>
+                                                            </ol>
+                                                            <p style="color:#58595b; font-size:12px; margin:19px 50px 13px 20px;text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 19px;"> El valor del seguro es constante durante toda la vida del crédito y, si aplica para el caso, se entregará el valor abonado a capital a los herederos.
+                                                            </p>
+                                                            <p style="color:#58595b; font-size:12px; margin:19px 50px 13px 20px;text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 19px;">
+                                                                Lo invitamos a conservar esta información durante la vigencia de su obligación, con el fin de tener siempre presentes las condiciones. Desde este momento tenemos a su disposición todos nuestros canales de atención para consultas, pagos o modificaciones a su crédito.
+                                                            </p>
+                                                            <p style="color:#58595b; font-size:12px; margin:19px 50px 13px 20px;text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 19px;">
+                                                                Buscamos que usted y todos nuestros clientes se sientan satisfechos, por eso nuestro equipo siempre está comprometido a brindarle un gran servicio.
+                                                            </p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td height="20"></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+
+                                    </table>
+                                </td>
+                            </tr>
+
+                        </table>
+                    </div>
+                </td>
+
+            </tr>
+        </table>
+    </div>
+
+</div>
+<div style="margin:0px auto;max-width:600px;">
+    <table role="presentation" cellpadding="0" cellspacing="0" style="font-size:0px;width:100%;" align="center" border="0">
+        <tr>
+            <td style="text-align:center;vertical-align:top;direction:ltr;font-size:0px;padding:0px;">
+                <div class="mj-column-per-100 outlook-group-fix" style="vertical-align:top;display:inline-block;direction:ltr;font-size:13px;text-align:left;width:100%;">
+                    <table role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0">
+                        <tr>
+                            <td style="word-break:break-word;font-size:0px;padding:0;" align="left">
+                                <table cellpadding="0" cellspacing="0" style="cellspacing:0px;color:#000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:22px;table-layout:auto;" width="100%" border="0">
+                                    <tr>
+                                        <td>
+                                            <p style="color:#58595b; font-size:18px;text-align:center; font-family:Helvetica,Arial, sans-serif; line-height: 25px;">
+                                                <strong>Descubra todos los productos
+                                                    <br/>
+                                                    que Bancolombia tiene para usted
+                                                </strong>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center" valign="top" class="em_hide">
+                                            <table width="388" border="0" cellspacing="0" cellpadding="0" align="center" class="cta">
+                                                <tr>
+                                                    <td align="center" valign="top">
+                                                        <a href="https://www.grupobancolombia.com/wps/portal/personas/solicitud-de-productos-wcm#/creditos" target="_blank">
+                                                            <img class="cta" src="$RUTA_IMG/images/mail4.jpg" style="display:inline;vertical-align:middle;" border="0" />
+                                                        </a>
+                                                    </td>
+
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style=" padding: 0 0 0 50px;">
+                                            <p style="color:#58595b; font-size:12px; margin:19px 50px 13px 20px;text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 19px;">
+                                                Bancolombia S.A.
+                                            </p>
+                                            <p style="color:#58595b; font-size:12px; margin:19px 50px 13px 20px;text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 19px;">
+                                                Bancolombia S.A. Establecimiento Bancario asume exclusivamente la responsabilidad del cumplimiento de las obligaciones relacionadas con el Crédito de Consumo frente al consumidor financiero.
+                                            </p>
+                                            <p style="color:#58595b; font-size:12px; margin:19px 50px 13px 20px;text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 19px;">
+                                                *Las presentes condiciones son aplicables siempre y cuando no haya una modificación en las mismas durante la vida del crédito.
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center" valign="top">
+                                            <img class="em_full_img" src="$RUTA_IMG/images/mail5.jpg" width="600" height="220" style="display:inline;vertical-align:middle;" border="0" />
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding:10px 60px;">
+                                            <p style="color:#6c6d71; font-size:9px; margin:25px 43px 0 0;text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 12px;">Bancolombia nunca te solicitar&aacute; tus datos financieros como usuarios, claves, n&uacute;meros de tarjetas de cr&eacute;dito con sus c&oacute;digos de seguridad y fechas de vencimiento mediante v&iacute;nculos de correo electr&oacute;nico.</p>
+                                            <p style="color:#6c6d71; font-size:9px; margin:25px 43px 0 0;text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 12px;">Estos documentos fueron firmados electr&oacute;nicamente a trav&eacute;s de la clave din&aacute;mica y de acuerdo con la ley 527 de 1999.</p>
+                                            <p style="color:#6c6d71; font-size:9px; margin:25px 43px 0 0;text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 12px;">Si tienes alguna inquietud puedes contactarnos en nuestras l&iacute;neas de atenci&oacute;n telef&oacute;nica:</p>
+                                            <p style="color:#6c6d71; font-size:9px; margin:0 43px 0 0;text-align:left; font-family:Helvetica,Arial, sans-serif;line-height: 12px;"> Bogot&aacute;
+                                                <a href="tel:+5713430000" style="text-decoration:none">
+                                                    <span style="color:#00448c">+57 (1) 343 00 00</span>
+                                                </a> – Medell&iacute;n
+                                                <a href="tel:+5745109000" style="text-decoration:none">
+                                                    <span style="color:#00448c">+57 (4) 510 90 00</span>
+                                                </a> – Cali
+                                                <a href="tel:+5725540505" style="text-decoration:none">
+                                                    <span style="color:#00448c">+57 (2) 554 05 05</span>
+                                                </a>
+                                            </p>
+                                            <p style="color:#6c6d71; font-size:9px; margin:0 43px 0 0;text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 12px;"> Barranquilla
+                                                <a href="tel:+5753618888" style="text-decoration:none">
+                                                    <span style="color:#00448c">+57 (5) 361 88 88</span>
+                                                </a> – Bucaramanga
+                                                <a href="tel:+5776972525" style="text-decoration:none">
+                                                    <span style="color:#00448c">+57 (7) 697 25 25</span>
+                                                </a> – Cartagena
+                                                <a href="tel:+5756934400" style="text-decoration:none">
+                                                    <span style="color:#00448c">+57 (5) 693 44 00</span>
+                                                </a>
+                                            </p>
+                                            <p style="color:#6c6d71; font-size:9px; margin:0 43px 0 0;text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 12px;"> Resto del pa&iacute;s
+                                                <span style="color:#00448c">01800 09 12345</span>
+                                            </p>
+                                            <p style="color:#6c6d71; font-size:9px; margin:0 43px 0 0;text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 12px;"> Sede principal Cra 48 Nro. 26-85 Torre Norte</p>
+                                            <p style="color:#6c6d71; font-size:9px; margin:0 43px 0 0;text-align:left; font-family:Helvetica,Arial, sans-serif; line-height: 12px;"> Medell&iacute;n – Colombia</p>
+                                            <p style="color:#6c6d71; font-size:9px; margin:5px 43px 20px 0; text-align:left; font-family:Helvetica,Arial, sans-serif;">
+                                                <a xt="SPONECLICKOPTOUT" href="#SPONECLICKOPTOUT" target="_blank" styles="">Cancelar Suscripción </a>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center" valign="top">
+                                            <table width="500" border="0" cellspacing="0" cellpadding="0" align="center" class="em_wrapper1">
+                                                <tr>
+                                                    <td align="left" valign="top" class="button-wrapper">
+                                                        <a href="https://www.facebook.com/bancolombia/?fref=ts" target="_blank">
+                                                            <img class="em_full_img" src="$RUTA_IMG/images/fb.jpg" width="120" height="113" style="display:inline;vertical-align:middle;" border="0" />
+                                                        </a>
+                                                    </td>
+                                                    <td align="left" valign="top" class="button-wrapper">
+                                                        <a href="https://twitter.com/Bancolombia?lang=es" target="_blank">
+                                                            <img class="em_full_img" src="$RUTA_IMG/images/tw.jpg" width="84" height="113" style="display:inline;vertical-align:middle;" border="0" />
+                                                        </a>
+                                                    </td>
+                                                    <td align="left" valign="top" class="button-wrapper">
+                                                        <a href="https://co.linkedin.com/company/bancolombia" target="_blank">
+                                                            <img class="em_full_img" src="$RUTA_IMG/images/link.jpg" width="83" height="113" style="display:inline;vertical-align:middle;" border="0" />
+                                                        </a>
+                                                    </td>
+                                                    <td align="left" valign="top" class="button-wrapper">
+                                                        <a href="https://www.instagram.com/bancolombia/" target="_blank">
+                                                            <img class="em_full_img" src="$RUTA_IMG/images/instagram.jpg" width="80" height="113" style="display:inline;vertical-align:middle;" border="0" />
+                                                        </a>
+                                                    </td>
+                                                    <td align="left" valign="top" class="button-wrapper">
+                                                        <a href=" https://www.youtube.com/user/GrupoBancolombia" target="_blank">
+                                                            <img class="em_full_img" src="$RUTA_IMG/images/youtube.jpg" width="109" height="113" style="display:inline;vertical-align:middle;" border="0" />
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+
+</body>
+
+</html>

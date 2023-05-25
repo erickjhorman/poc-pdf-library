@@ -1,0 +1,30 @@
+<html>
+<body>
+<style type="text/css">
+
+    body {
+        background-color: blueviolet;
+    }
+    p {
+        color: #00448c;
+    }
+</style>
+<p>Testing OPEN PDF</p>
+<table border="1">
+    #set ($rowCount = 1)
+    #set ($products = ["one", "two", "three","four"])
+    #foreach($product in $products)
+        #if ($rowCount % 2 == 0)
+            #set ($bgcolor = "#FFFFFF")
+        #else
+            #set ($bgcolor = "#CCCCCC")
+        #end
+        <tr>
+            <td bgcolor="$bgcolor">$product</td>
+            <td bgcolor="$bgcolor">$product</td>
+        </tr>
+        #set ($rowCount = $rowCount + 1)
+    #end
+</table>
+</body>
+</html>

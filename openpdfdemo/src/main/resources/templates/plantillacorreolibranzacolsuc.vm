@@ -1,0 +1,484 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+    <title></title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+    <style type="text/css">
+
+        html, body {
+            margin: 0 auto !important;
+            padding: 0 !important;
+            height: 100% !important;
+            width: 100% !important;
+        }
+
+        * {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+        }
+
+        div[style*="margin: 16px 0"] {
+            margin: 0 !important;
+        }
+
+        table, td {
+            mso-table-lspace: 0pt !important;
+            mso-table-rspace: 0pt !important;
+        }
+
+
+        table {
+            border-spacing: 0 !important;
+            border-collapse: collapse !important;
+            table-layout: fixed !important;
+            margin: 0 auto !important;
+        }
+        table table table {
+            table-layout: auto;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        img {
+            -ms-interpolation-mode: bicubic;
+        }
+
+        *[x-apple-data-detectors], 			/* iOS */ .unstyle-auto-detected-links *, .aBn {
+            border-bottom: 0 !important;
+            cursor: default !important;
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }
+
+        .im {
+            color: inherit !important;
+        }
+
+        .a6S {
+            display: none !important;
+            opacity: 0.01 !important;
+        }
+
+        img.g-img + div {
+            display: none !important;
+        }
+
+
+        @media only screen and (min-device-width: 320px) and (max-device-width: 374px) {
+            u ~ div .email-container {
+                min-width: 320px !important;
+            }
+        }
+
+
+        @media only screen and (min-device-width: 375px) and (max-device-width: 413px) {
+            u ~ div .email-container {
+                min-width: 375px !important;
+            }
+        }
+
+
+        @media only screen and (min-device-width: 414px) {
+            u ~ div .email-container {
+                min-width: 414px !important;
+            }
+        }
+    </style>
+    <style type="text/css">
+
+        .button-td, .button-a {
+            transition: all 100ms ease-in;
+        }
+        .button-td-primary:hover, .button-a-primary:hover {
+            background: #1861b0 !important;
+            border-color: #1861b0 !important;
+        }
+
+
+        @media screen and (max-width: 600px) {
+            .email-container {
+                width: 100% !important;
+                margin: auto !important;
+            }
+
+            .fluid {
+                max-width: 100% !important;
+                height: auto !important;
+                margin-left: auto !important;
+                margin-right: auto !important;
+            }
+
+            .stack-column, .stack-column-center {
+                display: block !important;
+                width: 100% !important;
+                max-width: 100% !important;
+                direction: ltr !important;
+            }
+
+            .stack-column-center {
+                text-align: center !important;
+            }
+
+            .center-on-narrow {
+                text-align: center !important;
+                display: block !important;
+                margin-left: auto !important;
+                margin-right: auto !important;
+                float: none !important;
+            }
+            table.center-on-narrow {
+                display: inline-block !important;
+            }
+
+            .email-container p {
+                font-size: 17px !important;
+            }
+            p.nombre {
+                font-size: 25px !important;
+            }
+        }
+    </style>
+
+</head>
+<body width="100%">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="email-container" style="margin: 0 auto;" width="600">
+
+    <tbody>
+    <tr>
+        <td style="background-color: #ffffff;">
+
+            <div data-empty="true"> <br/>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="background-color: #ffffff; padding-top: 0px;">
+            <img src="$RUTA_IMG/images/mail_libranza_pensionados_01.jpg" width="600" height="264" alt="Banner" border="0" style="width:600px;height:264px; background: rgb(221, 221, 221); font-family: sans-serif; font-size: 15px; line-height: 15px; color: rgb(85, 85, 85);" class="g-img fr-fic fr-dii"/>
+        </td>
+    </tr>
+
+    <tr>
+        <td valign="middle">
+            <div>
+                <br/>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="background-color: #ffffff;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tbody>
+            <tr>
+                <td style="padding: 20px 20px 10px 20px; font-family: sans-serif; font-size: 16px; line-height: 20px; color: rgb(85, 85, 85); text-align: left;">
+                    <p style="margin: 0 10px 10px; text-align: left;">
+                        <strong style="color: #666666;">$NOMBRE_CLIENTE,
+                            <br/>
+                            <br/>
+                        </strong>Tu <strong style="color: #91278f">Crédito de Libranza Pensionado fue aprobado</strong>, conoce sus características*:
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td align="center"><img src="$RUTA_IMG/images/mail_divisas_04.jpg" width="58" height="58" alt="" class="fr-fic fr-dii"/>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <table style="padding: 20px 20px 10px 20px; font-family: sans-serif; font-size: 16px; line-height: 20px; color: rgb(85, 85, 85); text-align: left;" width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tbody>
+                        <tr style="background: : #f9f9f9 !important; ">
+                            <td style="border-radius: 8px 0px 0px 8px;" width="6%" height="40" >&nbsp;</td>
+                            <td width="48%"><strong>Fecha</strong> del desembolso:</td>
+                            <td width="4%">&nbsp;</td>
+                            <td width="37%">$FECHA_DESEMBOLSO</td>
+                            <td style="border-radius: 0px 8px 8px 0px;" width="5%">&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td height="40">&nbsp;</td>
+                            <td><strong>Valor</strong> del desembolso:</td>
+                            <td>&nbsp;</td>
+                            <td>$ $VALOR_DESEMBOLSO</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td style="border-radius: 8px 0px 0px 8px; background-color: #f9f9f9;" height="40">&nbsp;</td>
+                            <td style="background-color: #f9f9f9;"><strong>Plazo estimado</strong> en meses**:</td>
+                            <td style="background-color: #f9f9f9;">&nbsp;</td>
+                            <td style="background-color: #f9f9f9;">$PLAZO_CREDITO Meses</td>
+                            <td style="border-radius: 0px 8px 8px 0px; background-color: #f9f9f9;">&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td height="40">&nbsp;</td>
+                            <td><strong>Fecha de pago</strong> de la primera cuota:</td>
+                            <td>&nbsp;</td>
+                            <td>$FECHA_PAGO_SIGUIENTE</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td style="border-radius: 8px 0px 0px 8px; background-color: #f9f9f9;" height="40">&nbsp;</td>
+                            <td style="background-color: #f9f9f9;"><strong>Día de pago</strong> de las siguientes cuotas:</td>
+                            <td style="background-color: #f9f9f9;">&nbsp;</td>
+                            <td style="background-color: #f9f9f9;">$DIA_PAGO_SIGUIENTE de cada mes</td>
+                            <td style="border-radius: 0px 8px 8px 0px; background-color: #f9f9f9;">&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td height="40">&nbsp;</td>
+                            <td><strong>Indexación</strong> de tasa:</td>
+                            <td>&nbsp;</td>
+                            <td>$PUNTOS_DTF%</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td style="border-radius: 8px 0px 0px 8px; background-color: #f9f9f9;" height="40">&nbsp;</td>
+                            <td style="background-color: #f9f9f9;"><strong>Tasa nominal</strong> anual hoy:</td>
+                            <td style="background-color: #f9f9f9;">&nbsp;</td>
+                            <td style="background-color: #f9f9f9;">$TASA_INTERES%</td>
+                            <td style="border-radius: 0px 8px 8px 0px; background-color: #f9f9f9;">&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td height="40">&nbsp;</td>
+                            <td><strong>Valor de la cuota</strong> fija mensual (incluyendo seguros):</td>
+                            <td>&nbsp;</td>
+                            <td>$ $VALOR_CUOTA</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+
+            </tr>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <tr>
+                <td align="center"><img src="$RUTA_IMG/images/mail_libranza_pensionados_07.jpg" width="55" height="55" alt=""/></td>
+            </tr>
+            <tr>
+                <td align="center">&nbsp;</td>
+            </tr>
+            </tbody>
+        </table>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding: 25px; font-family: sans-serif; font-size: 15px; line-height: 20px; color: rgb(85, 85, 85); text-align: center;border: 1px solid #ffcc00; border-radius: 18px;" valign="top">
+            <div style="padding: 25px;">
+                Recuerda que aún está pendiente la respuesta por parte de Colpensiones sobre la modalidad del pago del crédito.
+                <br/>
+                <br/>
+                Si Colpensiones autoriza, <strong>se descontará automáticamente </strong>de tu pensión el pago de la <strong>cuota mensual del crédito.
+                <br/></strong>
+                En caso contrario las condiciones del crédito cambiarán y deberás realizar el pago por uno de nuestros canales habilitados:
+                <strong>App Personas, Sucursal Virtual Personas, Sucursal Telefónica, Sucursal Física o Corresponsal Bancario.</strong>
+                <br/>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="$RUTA_IMG/images/mail_libranza_pensionados_11.jpg" width="355" height="60" alt=""/></td>
+    </tr>
+    <tr>
+        <td style="background-color: #ffffff;">
+            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tbody>
+                <tr>
+                    <td width="100%">
+                        <div data-empty="true"> <br/>
+                        </div>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+    </tr>
+    </tbody>
+</table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="email-container" style="margin: 0 auto;" width="600">
+    <tbody>
+    <tr>
+        <td align="center" colspan="3" valign="top">
+            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tbody>
+                <tr>
+                    <td class="em_width" width="20">&nbsp; <br/></td>
+                    <td align="left" valign="top" width="10">
+                        <img src="$RUTA_IMG/images/legal_fiduciaria.jpg" width="15" height="147" border="0" alt="Vigilado Superintendencia Financiera" class="fr-fic fr-dii"/>
+                        <br/>
+                    </td>
+                    <td class="em_width" width="20">&nbsp; <br/></td>
+                    <td align="center" valign="top">
+                        <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <tbody>
+                            <tr>
+                                <td align="center" valign="middle">
+                                    <img src="$RUTA_IMG/images/logo.png" style="width: 200px;" class="fr-fic fr-dib" alt=""/>
+                                    <br/>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="em_h40" height="40">&nbsp; <br/></td>
+                            </tr>
+                            <tr>
+                                <td bgcolor="#cccccc" height="2" style="font-size:1px;line-height:1px;">&nbsp; <br/></td>
+                            </tr>
+                            <tr>
+                                <td height="35">&nbsp; <br/></td>
+                            </tr>
+                            <tr>
+                                <td align="left" style="font-family:Arial, Helvetica, sans-serif;font-size:10px;color:#6e6e71;line-height:16px;" valign="top">Bancolombia nunca te solicitar&aacute; datos financieros como usuarios, claves, n&uacute;meros de tarjetas de cr&eacute;dito con sus c&oacute;digos de seguridad y fechas de vencimiento mediante v&iacute;nculos de correo electr&oacute;nico o llamadas telef&oacute;nicas. Para verificar la autenticidad de este correo electr&oacute;nico puedes reenviarlo a <a href="mailto:correosospechoso@bancolombia.com.co" name="qLink16" overwrite="true" style="color:#304a83;font-family:Arial, Helvetica, sans-serif;font-size:10px;line-height:13px;text-decoration:underline;" xt="SPCLICK">correosospechoso@bancolombia.com.co.</a> <br/></td>
+                            </tr>
+                            <tr>
+                                <td height="15" style="font-size:1px;line-height:1px;">&nbsp; <br/></td>
+                            </tr>
+                            <tr>
+                                <td align="left" style="font-family:Arial, Helvetica, sans-serif;font-size:10px;color:#6e6e71;line-height:16px;" valign="top">Si tienes alguna inquietud puedes contactarnos en nuestras l&iacute;neas de atenci&oacute;n telef&oacute;nica: <br/>
+                                    <a class="em_grey" href="#" name="qLink15" overwrite="true" style="font-family:Arial, Helvetica, sans-serif;font-size:10px;color:#6e6e71;line-height:16px;text-decoration:none;" xt="SPCLICK">Bogot&aacute;</a><a href="tel:+57(1)%20031430000" name="qLink14" overwrite="true" style="text-decoration:none;color:#184889;font-weight:bold;font-family:Arial, Helvetica, sans-serif;font-size:10px;line-height:16px;" xt="SPCLICK">+57(1) 3430000</a>, Medell&iacute;n <a href="tel:+57%20(4)%200315109000" name="qLink13" overwrite="true" style="text-decoration:none;color:#184889;font-weight:bold;font-family:Arial, Helvetica, sans-serif;font-size:10px;line-height:16px;" xt="SPCLICK">+57 (4) 5109000</a> <br/>
+                                    Cali <a href="tel:+57%20(2)%200315540505" name="qLink12" overwrite="true" style="text-decoration:none;color:#184889;font-weight:bold;font-family:Arial, Helvetica, sans-serif;font-size:10px;line-height:16px;" xt="SPCLICK">+57 (2) 5540505</a>, Barranquilla <a href="tel:+57%20(5)%200313618888" name="qLink11" overwrite="true" style="text-decoration:none;color:#184889;font-weight:bold;font-family:Arial, Helvetica, sans-serif;font-size:10px;line-height:16px;" xt="SPCLICK">+57 (5) 3618888</a>, <br/>
+                                    Bucaramanga <a href="tel:+57%20(7)%200316972525" name="qLink10" overwrite="true" style="text-decoration:none;color:#184889;font-weight:bold;font-family:Arial, Helvetica, sans-serif;font-size:10px;line-height:16px;" xt="SPCLICK">+57 (7) 6972525</a>, Cartagena <a href="tel:+57%20(5)%200316934400" name="qLink9" overwrite="true" style="text-decoration:none;color:#184889;font-weight:bold;font-family:Arial, Helvetica, sans-serif;font-size:10px;line-height:16px;" xt="SPCLICK">+57 (5) 6934400</a>, <br/>
+                                    Resto del pa&iacute;s <a href="tel:018000912345%20" name="qLink8" overwrite="true" style="text-decoration:none;color:#184889;font-weight:bold;font-family:Arial, Helvetica, sans-serif;font-size:10px;line-height:16px;" xt="SPCLICK">018000912345</a> <br/>
+                                    Sede principal <a class="em_grey" href="#" name="qLink7" overwrite="true" style="font-family:Arial, Helvetica, sans-serif;font-size:10px;color:#6e6e71;line-height:16px;text-decoration:none;" xt="SPCLICK">Cra. 48 Nro. 26-85</a> Torre Norte <br/>
+                                    Medell&iacute;n &ndash; Colombia
+                                    <div data-empty="true"> <br/>
+                                    </div>
+                                    <a href="https://www.grupobancolombia.com/wps/portal/acerca-de/centro-preferencias?email=$EMAIL?QCPARAMS" name="qLink6" overwrite="true" style="text-decoration:underline;color:#184889;font-weight:bold;font-family:Arial, Helvetica, sans-serif;font-size:13px;line-height:16px;" target="_blank" xt="SPONECLICKOPTOUT">Cancelar suscripci&oacute;n</a> <br/></td>
+                            </tr>
+                            <tr>
+                                <td class="h20" height="30" style="font-size:1px;line-height:1px;">&nbsp; <br/></td>
+                            </tr>
+                            <tr>
+                                <td align="center" valign="top">
+                                    <table align="center" border="0" cellpadding="0" cellspacing="0" style="text-align: center;" width="160">
+                                        <tbody>
+                                        <tr>
+                                            <td align="left" class="button-wrapper" valign="top">
+                                                <a href="https://www.facebook.com/bancolombia/" name="qLink5" overwrite="true" target="_blank" xt="SPCLICK">
+                                                    <img src="$RUTA_IMG/images/fb.jpg" alt="Facebook" width="52" height="19" class="em_full_img fr-fic fr-dii" border="0"/>
+                                                </a>
+                                                <br/>
+                                            </td>
+                                            <td align="left" class="button-wrapper" valign="top">
+                                                <a href="https://twitter.com/Bancolombia" name="qLink4" overwrite="true" target="_blank" xt="SPCLICK">
+                                                    <img src="$RUTA_IMG/images/tw.jpg" alt="Twitter" width="52" height="19" class="em_full_img fr-fic fr-dii" border="0"/>
+                                                </a>
+                                                <br/>
+                                            </td>
+                                            <td align="left" class="button-wrapper" valign="top">
+                                                <a href="https://www.linkedin.com/company/22690" name="qLink3" overwrite="true" target="_blank" xt="SPCLICK">
+                                                    <img src="$RUTA_IMG/images/link.jpg" alt="LinkedIn" width="52" height="19" class="em_full_img fr-fic fr-dii" border="0"/>
+                                                </a>
+                                                <br/>
+                                            </td>
+                                            <td align="left" class="button-wrapper" valign="top">
+                                                <a href="https://www.instagram.com/bancolombia/" name="qLink2" overwrite="true" target="_blank" xt="SPCLICK">
+                                                    <img src="$RUTA_IMG/images/instragram.jpg" alt="Instagram" width="52" height="19" class="em_full_img fr-fic fr-dii" border="0"/>
+                                                </a>
+                                                <br/>
+                                            </td>
+                                            <td align="left" class="button-wrapper" valign="top">
+                                                <a href="https://www.youtube.com/user/GrupoBancolombia" name="qLink1" overwrite="true" target="_blank" xt="SPCLICK">
+                                                    <img src="$RUTA_IMG/images/youtube.jpg" alt="Youtube" width="52" height="19" class="em_full_img fr-fic fr-dii" border="0"/>
+                                                </a>
+                                                <br/>
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="em_height" height="20">&nbsp;
+                                    <br/>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td class="em_w35" width="60">&nbsp; <br/>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+    </tr>
+    </tbody>
+</table>
+<p>
+    <br/>
+</p>
+</body>
+</html>

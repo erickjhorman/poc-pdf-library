@@ -1,0 +1,61 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+    <title></title>
+    <!--[if !mso]>
+<!-- -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!--
+	<![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <style type="text/css">
+
+        p {margin: 0; padding: 0;}
+        .ft00{font-size:18px;font-family:Times New Roman;color:#000000;}
+        .ft01{font-size:14px;font-family:Arial;color:#000000;}
+        .ft02{font-size:14px;font-family:Arial,BoldItalic;color:#000000;}
+        .ft03{font-size:14px;font-family:Arial,Bold;color:#000000;}
+        .ft04{font-size:14px;font-family:Times New Roman;color:#000000;}
+        .ft05{font-size:14px;font-family:Arial;color:#ff0000;}
+        .ft06{font-size:10px;font-family:Arial,Bold;color:#000000;}
+        .ft07{font-size:10px;font-family:Arial;color:#000000;}
+        .ft08{font-size:18px;line-height:20px;font-family:Times New Roman;color:#000000;}
+        .ft09{font-size:14px;line-height:17px;font-family:Arial;color:#000000;}
+        .ft010{font-size:14px;line-height:17px;font-family:Arial,BoldItalic;color:#000000;}
+        .ft011{font-size:14px;line-height:17px;font-family:Arial,Bold;color:#000000;}
+        .ft012{font-size:14px;line-height:16px;font-family:Arial;color:#000000;}
+        .ft013{font-size:10px;line-height:11px;font-family:Arial;color:#000000;}
+        .ft014{font-size:10px;line-height:12px;font-family:Arial;color:#000000;}
+
+    </style>
+</head>
+<body>
+
+<div id="page1-div" style="position:absolute;width:700px;text-align:left;">
+    <img style="position:absolute;top:-20px;left:130px;width:600px;height:80px;" src="$RUTA_IMG/images/headerCarta.png" />
+
+    <p style="position:absolute;top:1px;left:127px;white-space:nowrap" class="ft09"><br/><br/>Bogotá $FECHA<br/>
+        <br/>Sr (a)</p>
+    <p style="position:absolute;top:223px;left:127px;white-space:nowrap" class="ft010"><i><b>$NOMBRE_CLIENTE<br/>$CIUDAD </b></i></p>
+    <p style="position:absolute;top:309px;left:127px;white-space:nowrap" class="ft012"><br/><br/></p>
+    <p style="position:absolute;top:309px;left:127px;white-space:nowrap" class="ft012">Estimado Sr (a) <br/><br/>Es un gusto darle la bienvenida a nuestra compañía y felicitarlo por su excelente decisión de contratar</p>
+    <p style="position:absolute;top:361px;left:127px;white-space:nowrap" class="ft012">la <b>PÓLIZA DE SEGURO DE EMPLEADO PROTEGIDO CRÉDITO DE LIBRANZA</b> exclusivo para</p>
+    <p style="position:absolute;top:378px;left:127px;white-space:nowrap" class="ft01">clientes de Bancolombia S.A.</p>
+    <p style="position:absolute;top:378px;left:323px;white-space:nowrap" class="ft03"><b> </b></p>
+    <p style="position:absolute;top:396px;left:127px;white-space:nowrap" class="ft012"> <br/>Cardif Colombia Seguros Generales S.A, es una compañía de seguros perteneciente al grupo BNP <br/>Paribas, uno de los grupos financieros y aseguradores más importantes del mundo en el mercado <br/>de Bancaseguros. <br/> <br/></p>
+    <p style="position:absolute;top:481px;left:127px;white-space:nowrap" class="ft03">La póliza de seguros <b>827$CREDITO_NUMERO</b> que ha adquirido contiene el compromiso de su protección por</p>
+    <p style="position:absolute;top:499px;left:127px;white-space:nowrap" class="ft09">parte de nuestra compañía y es el punto de inicio de una relación en la que dedicaremos nuestro <br/>máximo esfuerzo para lograr su completa satisfacción. <br/> <br/>Adjunto encontrará el contrato del seguro que adquirió, al final de este documento podrá ubicar un <br/>link y un código QR para acceder al detalle de las coberturas y condiciones particulares de su seguro.  <br/> <br/>Con  el  objetivo  de  acceder  a  los  beneficios  de  su  póliza  le  invitamos  a  seguir  las  siguientes <br/>indicaciones: </p>
+    <p style="position:absolute;top:638px;left:155px;white-space:nowrap" class="ft04">- Lea su póliza detenidamente, beneficios, coberturas, términos y condiciones. Recuerde que <br/>es fundamental que usted esté informado de las características de su seguro. </p>
+    <p style="position:absolute;top:672px;left:155px;white-space:nowrap" class="ft04">- Verifique que sus datos personales estén registrados correctamente. En caso de cualquier <br/>error solicite la corrección en las líneas de atención relacionadas en el contrato de seguro. </p>
+    <p style="position:absolute;top:706px;left:127px;white-space:nowrap" class="ft09"> <br/>Ante  cualquier  duda,  información  adicional  ó  ante  la  ocurrencia  de  un  siniestro  o  novedad,  le <br/>agradecemos se comunique con las líneas de atención indicadas en el contrato de seguro.</p>
+    <p style="position:absolute;top:741px;left:731px;white-space:nowrap" class="ft05">  </p>
+    <p style="position:absolute;top:758px;left:127px;white-space:nowrap" class="ft012"> <br/> <br/>Finalmente Agradecemos su preferencia y confianza en nosotros y esperamos seguir satisfaciendo <br/>sus necesidades de protección y las de su familia. <br/> <br/>Cordial saludo, <br/> </p>
+    <p style="position:absolute;top:780px;left:284px;white-space:nowrap" class="ft10">
+        <img style="right: -27px;position:absolute;bottom:-49px;width:120px;height:80px;" src="$RUTA_IMG/images/firmaCarta.png" />
+    </p>
+    <p style="position:absolute;top:804px;left:127px;white-space:nowrap" class="ft011"><b>Cardif Colombia Seguros Generales <br/> </b></p>
+    <p style="position:absolute;top:808px;left:127px;white-space:nowrap" class="ft06"><b>Advertencia:</b> Cardif  Colombia  Seguros  Generales  S.A  asume  exclusivamente  la  responsabilidad  del  cumplimiento  de  las  obligaciones  del </p>
+    <p style="position:absolute;top:820px;left:127px;white-space:nowrap" class="ft014">producto  frente  al  consumidor  financiero.  Este  producto  es  ofrecido  por  la  red  de  Bancolombia  S.A.,  limitándose  única  y  exclusivamente  al <br/>correcto cumplimiento de las instrucciones debidamente impartidas por Cardif Colombia Seguros Generales S.A  para la prestación del servicio <br/>en dicha red.</p>
+</div>
+</body>
+</html>
